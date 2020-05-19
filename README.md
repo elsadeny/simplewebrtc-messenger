@@ -33,7 +33,7 @@ If you would like to quickly test out the app on a public domain without dealing
 
 If the video stutters or freezes, it's probably due to the slow upload speeds given by your ISP.
 
-## License
+#### License
 
 The MIT License (MIT) Copyright (c)
 
